@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\bin\Debug\net8.0\Alquilando.Aplicacion.deps.json
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\bin\Debug\net8.0\Alquilando.Aplicacion.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\bin\Debug\net8.0\Alquilando.Aplicacion.pdb
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.AssemblyInfo.cs
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\refint\Alquilando.Aplicacion.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.pdb
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\ref\Alquilando.Aplicacion.dll

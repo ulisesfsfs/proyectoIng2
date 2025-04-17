@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\bin\Debug\net8.0\Alquilando.Repositorios.deps.json
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\bin\Debug\net8.0\Alquilando.Repositorios.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\bin\Debug\net8.0\Alquilando.Repositorios.pdb
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\bin\Debug\net8.0\Alquilando.Aplicacion.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\bin\Debug\net8.0\Alquilando.Aplicacion.pdb
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.AssemblyInfo.cs
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilan.53CCE7D7.Up2Date
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\refint\Alquilando.Repositorios.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.pdb
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\ref\Alquilando.Repositorios.dll
