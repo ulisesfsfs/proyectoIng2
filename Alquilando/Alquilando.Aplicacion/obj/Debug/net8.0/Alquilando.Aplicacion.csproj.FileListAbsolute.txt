@@ -9,3 +9,4 @@ C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\refint\Alquilando.Aplicacion.dll
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.pdb
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\ref\Alquilando.Aplicacion.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Aplicacion\obj\Debug\net8.0\Alquilando.Aplicacion.sourcelink.json

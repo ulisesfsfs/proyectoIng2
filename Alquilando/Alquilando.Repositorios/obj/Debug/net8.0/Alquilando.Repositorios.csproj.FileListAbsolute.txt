@@ -13,3 +13,4 @@ C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Deb
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\refint\Alquilando.Repositorios.dll
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.pdb
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\ref\Alquilando.Repositorios.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Repositorios\obj\Debug\net8.0\Alquilando.Repositorios.sourcelink.json

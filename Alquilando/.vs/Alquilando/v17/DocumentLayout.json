@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B20D1D5A-B471-4F51-8AAD-6FD2ACC80C51}|Alquilando.Interfaz\\Alquilando.Interfaz.csproj|solutionrelative:alquilando.interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +55,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:08:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:08:51.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:08:43.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:08:42.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:08:36.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\App.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:08:07.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\_Imports.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:08:06.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Alquilando.Interfaz\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Alquilando.Interfaz\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:06:05.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Program.cs",
               "RelativeDocumentMoniker": "Alquilando.Interfaz\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Interfaz\\Program.cs",
               "RelativeToolTip": "Alquilando.Interfaz\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T23:44:37.624Z",
               "EditorCaption": ""
