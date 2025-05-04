@@ -1,14 +1,29 @@
 using Alquilando.Interfaz.Components;
 using Syncfusion.Blazor;
+using Microsoft.Extensions.DependencyInjection;
+using Alquilando.Aplicacion.Interfaces;
+using Alquilando.Repositorios;
+using Alquilando.Aplicacion.Casos_de_Uso;
+using Alquilando.Aplicacion.Servicios;
+
+AlquilandoSqlite.Inicializar();
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 builder.Services.AddSyncfusionBlazor();
-var app = builder.Build();
 
+
+
+
+
+builder.Services.AddTransient<IRepositorioUsuarios, UsuariosSql>();
+builder.Services.AddTransient<RegistrarUsuarioCliente>();
+builder.Services.AddTransient<ServicioRegistrarUsuario>();
+var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
