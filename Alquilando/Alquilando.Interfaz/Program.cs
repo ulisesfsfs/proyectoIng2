@@ -23,6 +23,11 @@ builder.Services.AddSyncfusionBlazor();
 builder.Services.AddTransient<IRepositorioUsuarios, UsuariosSql>();
 builder.Services.AddTransient<RegistrarUsuarioCliente>();
 builder.Services.AddTransient<ServicioRegistrarUsuario>();
+builder.Services.AddScoped<IServicioEmail,ServicioEmail>();
+builder.Services.AddTransient<IRepositorioInmueble, InmuebleSqlite>();
+builder.Services.AddScoped<CargarInmueble>();
+
+
 var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

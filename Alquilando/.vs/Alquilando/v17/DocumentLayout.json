@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.aplicacion\\casos de uso\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|solutionrelative:alquilando.aplicacion\\casos de uso\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.aplicacion\\casos de uso\\registrarusuariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|solutionrelative:alquilando.aplicacion\\casos de uso\\registrarusuariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A019-A624-4924-A652-8D2A2D35E854}|Alquilando.Repositorios\\Alquilando.Repositorios.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.repositorios\\inmueblesqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A019-A624-4924-A652-8D2A2D35E854}|Alquilando.Repositorios\\Alquilando.Repositorios.csproj|solutionrelative:alquilando.repositorios\\inmueblesqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A019-A624-4924-A652-8D2A2D35E854}|Alquilando.Repositorios\\Alquilando.Repositorios.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.repositorios\\usuariossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A019-A624-4924-A652-8D2A2D35E854}|Alquilando.Repositorios\\Alquilando.Repositorios.csproj|solutionrelative:alquilando.repositorios\\usuariossql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.aplicacion\\casos de uso\\cargarinmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|solutionrelative:alquilando.aplicacion\\casos de uso\\cargarinmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|c:\\users\\admin\\documents\\proyectoing2\\alquilando\\alquilando.aplicacion\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36C0D3-A4CF-448B-8A3F-8C98D3D18D47}|Alquilando.Aplicacion\\Alquilando.Aplicacion.csproj|solutionrelative:alquilando.aplicacion\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Casos de Uso\\Login.cs",
+              "RelativeDocumentMoniker": "Alquilando.Aplicacion\\Casos de Uso\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Casos de Uso\\Login.cs",
+              "RelativeToolTip": "Alquilando.Aplicacion\\Casos de Uso\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T23:19:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarUsuarioCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Casos de Uso\\RegistrarUsuarioCliente.cs",
+              "RelativeDocumentMoniker": "Alquilando.Aplicacion\\Casos de Uso\\RegistrarUsuarioCliente.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Casos de Uso\\RegistrarUsuarioCliente.cs",
+              "RelativeToolTip": "Alquilando.Aplicacion\\Casos de Uso\\RegistrarUsuarioCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T23:19:16.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InmuebleSqlite.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Repositorios\\InmuebleSqlite.cs",
+              "RelativeDocumentMoniker": "Alquilando.Repositorios\\InmuebleSqlite.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Repositorios\\InmuebleSqlite.cs",
+              "RelativeToolTip": "Alquilando.Repositorios\\InmuebleSqlite.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T23:19:11.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosSql.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Repositorios\\UsuariosSql.cs",
+              "RelativeDocumentMoniker": "Alquilando.Repositorios\\UsuariosSql.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Repositorios\\UsuariosSql.cs",
+              "RelativeToolTip": "Alquilando.Repositorios\\UsuariosSql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T23:19:10.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Alquilando.Aplicacion\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Alquilando.Aplicacion\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:59:56.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CargarInmueble.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Casos de Uso\\CargarInmueble.cs",
+              "RelativeDocumentMoniker": "Alquilando.Aplicacion\\Casos de Uso\\CargarInmueble.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\proyectoIng2\\Alquilando\\Alquilando.Aplicacion\\Casos de Uso\\CargarInmueble.cs",
+              "RelativeToolTip": "Alquilando.Aplicacion\\Casos de Uso\\CargarInmueble.cs",
+              "ViewState": "AQIAAAAAAACAosTPKPH3vxMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:57:22.94Z",
+              "EditorCaption": ""
             }
           ]
         }

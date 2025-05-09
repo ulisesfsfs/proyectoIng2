@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alquilando.Interfaz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e36e6ed656e4980654dfa746eb6f2a25a9beec72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1895f56b1932bf1b85bba7f0a7392d55a700130e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alquilando.Interfaz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alquilando.Interfaz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

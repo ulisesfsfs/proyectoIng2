@@ -100,3 +100,4 @@ C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Interfaz\bin\Debug\n
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Interfaz\bin\Debug\net8.0\Syncfusion.Blazor.Themes.dll
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Interfaz\bin\Debug\net8.0\Syncfusion.ExcelExport.Net.dll
 C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Interfaz\bin\Debug\net8.0\Syncfusion.Licensing.dll
+C:\Users\Admin\Documents\proyectoIng2\Alquilando\Alquilando.Interfaz\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll

@@ -17,7 +17,7 @@ namespace Alquilando.Aplicacion.Servicios
             {
                 error += "El correo ya esta en uso \n";
             }
-            if (contraseña.Length < 8)
+            if ((error.Equals("")) && (contraseña.Length < 8))
             {
                 error += "La contraseña no cumple con los requisitos minimos de seguridad";
             }

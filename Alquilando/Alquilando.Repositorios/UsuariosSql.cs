@@ -20,16 +20,15 @@ namespace Alquilando.Repositorios
 
         public bool existe(String email)
         {
-            using var db = new AlquilandoDbContext();
-            if (db.Usuarios.Select(u => u.email.Equals(email)).Count() == 1)
+            using (var db = new AlquilandoDbContext())
             {
-                return true;
+                var usuario = db.Usuarios.Where(u => u.email.Equals(email)).SingleOrDefault();
+                if (usuario != null)
+                    return true;
+                else
+                    return false;
             }
-            else
-            {
-                return false;
-            }
-        }
+		}
 
         public bool pertenece(String email,String contraseña)
         {

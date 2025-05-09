@@ -4,6 +4,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>efe5f412-e825-404e-91f8-dbb1cbdc92c7</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="9.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+  </ItemGroup>
 
 </Project>
